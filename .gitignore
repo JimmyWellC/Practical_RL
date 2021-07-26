@@ -53,7 +53,7 @@ coverage.xml
 .mr.developer.cfg
 .project
 .pydevproject
-.idea
+../../Practical_RL/.idea
 .ipynb_checkpoints
 
 # Rope
