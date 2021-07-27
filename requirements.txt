@@ -56,7 +56,7 @@ pyramid-tm==2.4
 python-daemon==2.3.0
 python-dateutil==2.8.2
 python-editor==1.0.4
-python-ldap @ file:///D:/Python%20Projects/Practical_RL/python_ldap-3.3.1-cp37-cp37m-win_amd64.whl
+python-ldap @ file:///D:/rl/Practical_RL/python_ldap-3.3.1-cp37-cp37m-win_amd64.whl
 pywin32==301
 PyYAML==5.4.1
 pyzmq==22.1.0
